@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Artem 👋
 
-<!--
-**ohiiartem/ohiiartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C++ / Qt Developer** · CS student at Politechnika Poznańska · Wrocław / Poznań, Poland
 
-Here are some ideas to get you started:
+I build desktop applications in modern C++ and I'm currently looking for a **junior / intern C++ position** in Poland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 What I'm working on
+
+**[todoApp](https://github.com/ohiiartem/todoApp-qt-cpp)** — keyboard-driven desktop task manager (C++17, Qt6, CMake)
+- Released as standalone macOS app (v1.5.0), currently building v2.0: SQLite + MVC refactor, unit tests
+- qmake → CMake migration, conventional commits, dev/main branching workflow
+
+## 🧰 Tech stack
+
+`C++17/20` `Qt6` `CMake` `Git` `GoogleTest` `STL` `OOP`
