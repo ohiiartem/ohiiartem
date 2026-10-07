@@ -8,7 +8,6 @@ I build desktop applications in modern C++ and I'm currently looking for a **jun
 
 **[todoApp](https://github.com/ohiiartem/todoApp-qt-cpp)** — keyboard-driven desktop task manager (C++17, Qt6, CMake)
 - Released as standalone macOS app (v1.5.0), unit tests
-- qmake → CMake migration, conventional commits, dev/main branching workflow
 
 ## 🧰 Tech stack
 
