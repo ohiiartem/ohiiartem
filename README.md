@@ -1,14 +1,22 @@
-# Hi, I'm Artem 👋
+## Artem Ohii
 
-**C++ / Qt Developer** · CS student at Politechnika Poznańska · Wrocław / Poznań, Poland
+C++ developer, CS student at Poznań University of Technology.
+Looking for an internship or a junior C++ position in Poland.
 
-I build desktop applications in modern C++ and I'm currently looking for a **junior / intern C++ position** in Poland.
+### Now
 
-## 🔨 What I'm working on
+- **[todoApp-qt-cpp](https://github.com/ohiiartem/todoApp-qt-cpp)** — keyboard-driven
+  desktop task manager in C++17 / Qt6. Every action has a key, nothing needs the
+  mouse. v1.6 ships as a macOS `.dmg` built and tested by GitHub Actions.
+- Working through systems programming on Linux — sockets, threads, and the
+  tooling around a crash: gdb, Valgrind, sanitizers.
+- Member of **LAG**, the Linux science club at my faculty. Currently in the
+  workshops on mainlining Linux to ARM SoC devices.
 
-**[todoApp](https://github.com/ohiiartem/todoApp-qt-cpp)** — keyboard-driven desktop task manager (C++17, Qt6, CMake)
-- Released as standalone macOS app (v1.5.0), unit tests
+### Tools
 
-## 🧰 Tech stack
+`C++17/20` `Qt6` `CMake` `GoogleTest` `Git` `GitHub Actions` `Linux`
 
-`C++17/20` `Qt6` `CMake` `Git` `GoogleTest` `STL` `OOP`
+---
+
+Wrocław / Poznań, Poland · [LinkedIn](https://www.linkedin.com/in/artem-ohii)
